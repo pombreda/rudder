@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/dockercn/rudder/pkg/archive"
-	"github.com/dockercn/rudder/pkg/fileutils"
+	"github.com/containerops/rudder/pkg/archive"
+	"github.com/containerops/rudder/pkg/fileutils"
 )
 
 func parseDockerignore(root string) ([]string, error) {

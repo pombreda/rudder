@@ -19,10 +19,10 @@ import (
 
 	log "github.com/Sirupsen/logrus"
 
-	"github.com/dockercn/rudder/pkg/fileutils"
-	"github.com/dockercn/rudder/pkg/pools"
-	"github.com/dockercn/rudder/pkg/promise"
-	"github.com/dockercn/rudder/pkg/system"
+	"github.com/containerops/rudder/pkg/fileutils"
+	"github.com/containerops/rudder/pkg/pools"
+	"github.com/containerops/rudder/pkg/promise"
+	"github.com/containerops/rudder/pkg/system"
 )
 
 type (

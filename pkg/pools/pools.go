@@ -16,7 +16,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/dockercn/rudder/pkg/ioutils"
+	"github.com/containerops/rudder/pkg/ioutils"
 )
 
 var (
