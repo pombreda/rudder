@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/dockercn/rudder/pkg/units"
+	"github.com/containerops/rudder/pkg/units"
 )
 
 var (
